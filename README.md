@@ -4,7 +4,7 @@ Inspired by [OTUS / Java Developer Professional](https://otus.ru/lessons/java-pr
 
 ## Maven
 - [Maven](http://maven.apache.org) (en)
-- [Apache Maven Guide | Baeldung](https://www.baeldung.com/maven-guide)
+- [Apache Maven Guide | Baeldung](https://www.baeldung.com/maven-guide) (en)
 - [Apache Maven — основы | Хабр](https://habr.com/ru/post/77382/) (ru)
 - [Использование Maven для построения Java проектов / Сергей Немчинский | YouTube](https://www.youtube.com/watch?v=IAbZVA4tK6M) (ru)
 
